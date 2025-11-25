@@ -1,16 +1,12 @@
-胖东来
-于东来
-
-DeepSeek
-梁文锋
-
 华为
 鸿蒙
 HarmonyOS
-任正非
 
 比亚迪
-王传福
+特斯拉
+小鹏
+
+马斯克
 
 大疆
 DJI
@@ -20,37 +16,24 @@ DJI
 
 智元
 灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-京东
-刘强东
 
 字节
 bytedance
-张一鸣
-
-特斯拉
-马斯克
 
 微软
 Microsoft
 
 英伟达
 NVIDIA
-黄仁勋
 
 AMD
 
 gemini
 deepmind
-
 chatgpt
 openai
 sora
+DeepSeek
 
 claude
 Anthropic
@@ -71,7 +54,6 @@ ai
 人工智能
 
 自动驾驶
-
 机器人
 
 芯片
@@ -84,3 +66,10 @@ ai
 新质生产力
 
 spacex
+
+广州
+黄埔区
+萝岗区
+科学城
+中新知识城
+深圳
