@@ -1,23 +1,14 @@
-鸿蒙
 HarmonyOS
-
-比亚迪
-特斯拉
-小鹏
 
 智元
 灵犀
 
-微软
-Microsoft
-
 英伟达
 NVIDIA
-
 AMD
-
 谷歌
 Google
+TPU
 
 gemini
 deepmind
@@ -28,6 +19,7 @@ sora
 openai
 
 DeepSeek
+豆包
 
 claude
 Anthropic
@@ -37,12 +29,18 @@ ai
 人工智能
 
 自动驾驶
-机器人
+特斯拉
+FSD
 
 芯片
 光刻机
 
-科技
+固态电池
+电池
+松下
+宁德时代
+比亚迪
+BYD
 
 核能
 
@@ -50,4 +48,5 @@ ai
 
 广州
 科学城
-中新知识城
+知识城
+科教城
