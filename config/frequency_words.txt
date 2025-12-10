@@ -1,14 +1,18 @@
 HarmonyOS
+Android
+IOS
 
 智元
 灵犀
 
 英伟达
-NVIDIA
-AMD
 谷歌
 Google
+
+昇腾
 TPU
+NVIDIA
+AMD
 
 gemini
 deepmind
@@ -36,17 +40,7 @@ FSD
 光刻机
 
 固态电池
-电池
-松下
-宁德时代
-比亚迪
-BYD
 
 核能
 
-新质生产力
-
 广州
-科学城
-知识城
-科教城
